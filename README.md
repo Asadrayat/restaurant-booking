@@ -1,6 +1,6 @@
 # Next.js + Tailwind CSS Example
 
-This example shows how to use [https://restaurant-bookings.vercel.app/](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This example shows how to use [Live_Link]([https://tailwindcss.com/](https://restaurant-bookings.vercel.app/)) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Deploy your own
 
